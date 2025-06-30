@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className="header">
-      <h1>Fist React Pizza Co.</h1>
+      <h1>First React Pizza</h1>
     </header>
   );
 }
